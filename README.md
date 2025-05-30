@@ -1,4 +1,4 @@
-# SpaceNet Building Detection
+# SpaceNet Building Detection-V1
 
 This repository privides some python scripts and jupyter notebooks to train and evaluate convolutional neural networks 
 which extract buildings from [SpaceNet](https://spacenetchallenge.github.io/) satellite images. 
